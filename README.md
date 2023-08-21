@@ -1,5 +1,5 @@
 # Data Science Salary Analysis
-
+**Goal of the Project:** Examine the salary distribution of data science positions around the world and in the United States with SQL. 
 ## Installation
 MySQL and SQL Studio
 
